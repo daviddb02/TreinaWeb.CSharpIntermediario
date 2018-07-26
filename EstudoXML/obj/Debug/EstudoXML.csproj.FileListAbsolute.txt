@@ -1,0 +1,10 @@
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe.config
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\bin\Debug\EstudoXML.pdb
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csprojAssemblyReference.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.frmAgenda.resources
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.Properties.Resources.resources
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.GenerateResource.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.CoreCompileInputs.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoXML\obj\Debug\EstudoXML.pdb

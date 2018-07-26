@@ -1,0 +1,7 @@
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojAssemblyReference.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb
