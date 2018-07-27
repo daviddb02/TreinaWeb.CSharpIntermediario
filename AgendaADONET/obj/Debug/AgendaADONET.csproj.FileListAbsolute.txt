@@ -8,3 +8,4 @@ C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\ob
 C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.csproj.CoreCompileInputs.cache
 C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.exe
 C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.pdb
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.frmIncluirAlterarContato.resources
