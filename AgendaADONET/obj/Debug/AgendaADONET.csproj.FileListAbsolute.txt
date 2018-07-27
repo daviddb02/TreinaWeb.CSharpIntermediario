@@ -1,0 +1,10 @@
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Debug\AgendaADONET.exe.config
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Debug\AgendaADONET.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\bin\Debug\AgendaADONET.pdb
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.csprojAssemblyReference.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.frmAgenda.resources
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.Properties.Resources.resources
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.csproj.GenerateResource.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.csproj.CoreCompileInputs.cache
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.exe
+C:\Users\david.araujo\source\repos\TreinaWeb.CSharpIntermediario\AgendaADONET\obj\Debug\AgendaADONET.pdb
